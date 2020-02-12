@@ -17,6 +17,8 @@ This lab will teach you how to make an integration with Oracle’s ATP database,
 
 For this lab, your instructors will have the above items procured for you.
 
+If you would like to learn how to Visual Builder, [view this lab.](https://dppham1.github.io/WorkshopTemplate/workshops/workshop-template/index.html?page=LabGuide100.md)
+
 ## Lab 100: Introduction to OIC
 
 [Introduction to Oracle Integration Cloud](https://github.com/KseniiaRyuma/HCM_to_EBS_integration/blob/master/oic100.md)
