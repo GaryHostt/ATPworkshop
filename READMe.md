@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This lab will teach you how to make an integration with Oracle’s ATP database, using the Oracle Integration Cloud, OIC. The integration will allow a web page to query information in the ATP database and write new information to a table. [This video](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-9nP2LaeOok%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-9nP2LaeOok&type=text%2Fhtml&schema=youtube) elaborates on what is in this workshop. This lab is authored by [Alex MacDonald](intro.alexmacdonald.solutions).
+This lab will teach you how to make an integration with Oracle’s ATP database, using the Oracle Integration Cloud, OIC. The integration will allow a web page to query information in the ATP database and write new information to a table. [This video](http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-9nP2LaeOok%3Ffeature%3Doembed&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-9nP2LaeOok&type=text%2Fhtml&schema=youtube) elaborates on what is in this workshop. This lab is authored by [Alex MacDonald](https://intro.alexmacdonald.solutions).
 
 ## Prequisites
 	1. OIC instance 
